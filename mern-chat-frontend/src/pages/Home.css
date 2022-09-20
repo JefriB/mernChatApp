@@ -1,0 +1,26 @@
+.home__bg {
+    background-image: url(https://dag08uxs564ub.cloudfront.net/images/friends_travel.max-835x606.jpg);
+    height: 88vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.imagerbt-container {
+    width: 400px;
+    height: 250px;
+    display: inline-block;
+    background-size: 100%;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+   
+
+}
+

@@ -1,0 +1,34 @@
+.signup__bg {
+    background-image: url('https://st.depositphotos.com/1037987/5069/i/950/depositphotos_50698041-stock-photo-group-of-friends-eating-meal.jpg');
+    height: 88vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.signup-profile-pic__container {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.signup-profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    object-fit: cover;
+}
+
+.add-picture-icon {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    color: blue;
+    background: white;
+    cursor: pointer;
+    z-index: 99;
+    
+}

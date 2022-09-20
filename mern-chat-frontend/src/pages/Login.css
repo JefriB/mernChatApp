@@ -1,0 +1,22 @@
+.login__bg {
+    background-image: url('https://blog.foster.uw.edu/wp-content/uploads/2020/03/67689860_354985905403043_5408997425064968192_n-Peter-Zachariah.jpg');
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.image-container {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    background-size: 100%;
+    position: absolute;
+    top: 4%;
+    left: 66%;
+   
+
+}
+
+
